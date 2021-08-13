@@ -24,7 +24,7 @@ NOW, LETS SEND ALL THE LATEST NOTICES TO MCA(SE) STUDENTS:
 
 TILL NOW THERE ARE NO EMAIL NOTICES.
 
-![image](https://user-images.githubusercontent.com/48402560/129323186-8360b340-4c6b-4618-b95b-41f7303a09e2.png)
+![image](https://user-images.githubusercontent.com/48402560/129326684-2a63d88d-db78-48f4-b33c-2ed9dcc870db.png)
 
 
 
@@ -115,9 +115,53 @@ NOW, STUDENTS OF MCA(SE) WILL RECEIVE THE NOTICES
 ![image](https://user-images.githubusercontent.com/48402560/129326323-2fd07d57-cb15-4240-a095-ebfb2c213ca3.png)
 
 
+### **Chatbot – Pai, IPU Virtual Assistant**
+
+![image](https://user-images.githubusercontent.com/48402560/129326901-ecf13950-667f-4933-91b4-b9440e529eac.png)
 
 
 
-RPA on USICT CAMPUS
+Requesting Pai, I want notice for MCA(SE).
 
-![1](https://user-images.githubusercontent.com/48402560/129321139-f963e3df-4727-4d90-88ca-017c9b066700.png)
+![image](https://user-images.githubusercontent.com/48402560/129327440-81ba9a31-8169-49bb-a9ce-b8e353a11c46.png)
+
+
+
+![image](https://user-images.githubusercontent.com/48402560/129327602-8cd29643-2d19-46b5-beac-889dab3ab308.png)
+
+
+
+![image](https://user-images.githubusercontent.com/48402560/129327847-087c5b83-a351-4ba4-be0b-954cb71b671f.png)
+
+
+
+Requesting Pai, I want notice for MBBS.
+
+![image](https://user-images.githubusercontent.com/48402560/129328153-d508a201-7d19-472b-a1c6-e167605c1309.png)
+
+
+
+![image](https://user-images.githubusercontent.com/48402560/129328268-9b6c1df7-9488-4682-bc4e-16e17393d8e5.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
