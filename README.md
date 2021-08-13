@@ -108,13 +108,11 @@ FORMAT TO SEND PERSONALIZED MAIL TO ALL STUDENTS.
 
 NOW, STUDENTS OF MCA(SE) WILL RECEIVE THE NOTICES
 
-![image](https://user-images.githubusercontent.com/48402560/129324878-a8062200-cae5-4525-beca-0d1c92f4b99f.png)
+![image](https://user-images.githubusercontent.com/48402560/129326412-081c269a-f2f9-4b8f-8e1d-00c06d246f1c.png)
 
 
 
-![image](https://user-images.githubusercontent.com/48402560/129324892-8b79bda5-c69c-41b2-8a52-b55a1c9df7a8.png)
-
-
+![image](https://user-images.githubusercontent.com/48402560/129326323-2fd07d57-cb15-4240-a095-ebfb2c213ca3.png)
 
 
 
