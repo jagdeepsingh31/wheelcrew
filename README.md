@@ -78,10 +78,41 @@ AFTER CLICK ON SAVE BUTTON.
 
 • AND ASLO CREATE A BACKUP OF NOTICE DETIALS LIKE: REFERENCE NO., DATE, SUBJECT, MESSAGE.
 
+![image](https://user-images.githubusercontent.com/48402560/129324539-3d93a655-ad2e-4a08-a61c-fdad131d4640.png)
 
 
 
+FETCH ALL STUDENTS DETAILS TO SEND THEM MAIL LIKE:
 
+• ENROLLNUMBER NO.
+
+• NAME
+
+• EMAIL ID
+
+![image](https://user-images.githubusercontent.com/48402560/129325412-29050f43-dcc5-4d00-bf2a-faaccd3c68eb.png)
+
+
+
+BACK-UP OF NOTICES SEND TO STUDENTS
+
+![image](https://user-images.githubusercontent.com/48402560/129324749-8c5f73db-f7fd-4d8a-bba1-477da8e11947.png)
+
+
+
+FORMAT TO SEND PERSONALIZED MAIL TO ALL STUDENTS.
+
+![image](https://user-images.githubusercontent.com/48402560/129324823-e36a20b4-0971-4924-904d-b530571f6c02.png)
+
+
+
+NOW, STUDENTS OF MCA(SE) WILL RECEIVE THE NOTICES
+
+![image](https://user-images.githubusercontent.com/48402560/129324878-a8062200-cae5-4525-beca-0d1c92f4b99f.png)
+
+
+
+![image](https://user-images.githubusercontent.com/48402560/129324892-8b79bda5-c69c-41b2-8a52-b55a1c9df7a8.png)
 
 
 
