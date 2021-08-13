@@ -143,25 +143,3 @@ Requesting Pai, I want notice for MBBS.
 
 ![image](https://user-images.githubusercontent.com/48402560/129328268-9b6c1df7-9488-4682-bc4e-16e17393d8e5.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
